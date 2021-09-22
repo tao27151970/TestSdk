@@ -3,6 +3,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://jitpack.io" }//必须添加这行
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
