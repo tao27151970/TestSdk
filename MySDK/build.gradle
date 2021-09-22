@@ -2,7 +2,7 @@ plugins {
     id 'com.android.library'
     id 'maven-publish'
 }
-
+group = "com.github.tao27151970"
 android {
     compileSdk 30
 
